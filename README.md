@@ -1,24 +1,9 @@
-## Hit the Star! :star:
-
-If you are planning to use this repo for reference, please hit the star. Thanks!
-
-## Kubernetes Learning Roadmap
-
-The Kubernetes Learning Roadmap is constantly updated with new content, so you can be sure that you're getting the latest and most up-to-date information available. 
-
-## Kubernetes Certification Coupon
-
-- 🚀  CKA, CKAD, CKS, or KCNA exam aspirants can **save 20%** today using code **DCUBE20** at https://kube.promo/devops. It is a limited-time offer from the Linux Foundation.
-- For the best savings, opt for the CKA + CKS bundle (**$260 Savings)**. Use code **DCUBE20** at https://kube.promo/bundle
-
->Note: You have one year of validity to appear for the certification exam after registration
-
 ## Kubernetes Learning Prerequisites
 
 If you want to learn Kubernetes, it's important to start with the basics. That means brushing up on your IT fundamentals first because Kubernetes builds on those. Once you have a good grasp of the basics, learning Kubernetes can be fun and easy. So don't skip the fundamentals – take some time to study them before diving into Kubernetes!
 
 - ✅ [Learn Container concepts](https://devopscube.com/what-is-a-container-and-how-does-it-work/)<sup>Complete Guide</sup>
-- [Learn Container Management Tool - Docker](https://www.freecodecamp.org/news/the-docker-handbook/) <sup>Complete Guide</sup>
+- ✅ [The Docker Handbook](https://www.freecodecamp.org/news/the-docker-handbook/) <sup>Complete Guide</sup>
 - [Understand Distributed system](https://www.freecodecamp.org/news/a-thorough-introduction-to-distributed-systems-3b91562c9b3c) <sup>Blog</sup>
 - [Understand Authentication & Authorization](https://www.okta.com/identity-101/authentication-vs-authorization/) <sup>Blog</sup>
 - [Learn Basics of Key Value Store](https://redis.com/nosql/key-value-databases/)<sup>Blog</sup>
